@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{81499F24-4FAE-3BA0-D105-6C4FDF7F9372}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ship_Mov.cs">
+    <Files>
+      <File FileName="Assets/scripts/ship_Mov.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity-game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="ship_Mov.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c0b6866-b2c4-4c03-9cdc-d5aa39af578e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
