@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{81499F24-4FAE-3BA0-D105-6C4FDF7F9372}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/ship_Mov.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/rock_Chase.cs">
     <Files>
-      <File FileName="Assets/scripts/ship_Mov.cs" Line="21" Column="1" />
+      <File FileName="Assets/scripts/rock_Chase.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +9,7 @@
           <Node name="unity-game" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="scripts" expanded="True">
-                <Node name="ship_Mov.cs" selected="True" />
+                <Node name="Ship.cs" selected="True" />
               </Node>
             </Node>
           </Node>
