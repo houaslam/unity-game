@@ -769,7 +769,7 @@ GameObject:
   - component: {fileID: 1745892103}
   - component: {fileID: 1745892102}
   - component: {fileID: 1745892101}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ship
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -788,8 +788,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97f928ea68c324b16ba4721a5e0594cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrustSpeed: 1
-  turnSpeed: 1
+  bulletPrefab: {fileID: 5196338393289592300, guid: 65b31f5dde4d073f9a55f3b8f4ded818, type: 3}
+  thrustSpeed: 5
+  turnSpeed: 1.5
 --- !u!61 &1745892102
 BoxCollider2D:
   m_ObjectHideFlags: 0
